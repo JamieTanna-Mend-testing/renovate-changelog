@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Test project for Renovate changelog",
   "dependencies": {
-    "renovate": "43.198.0"
+    "renovate": "43.206.1"
   }
 }
