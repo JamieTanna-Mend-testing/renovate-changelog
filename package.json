@@ -1,0 +1,8 @@
+{
+  "name": "renovate-changelog",
+  "version": "1.0.0",
+  "description": "Test project for Renovate changelog",
+  "dependencies": {
+    "renovate": "43.198.0"
+  }
+}
